@@ -1,0 +1,4 @@
+.todo_list {
+  overflow-y: auto;
+  max-height: 60vh;
+}

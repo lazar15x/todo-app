@@ -1,0 +1,17 @@
+.control_panel {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0 5px;
+  padding: 5px 0;
+  margin-top: auto;
+}
+
+.btns {
+  display: flex;
+  gap: 0 3px;
+}
+
+.active_btn {
+  border: 1px solid rgb(226, 62, 62);
+}
